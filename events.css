@@ -1,6 +1,6 @@
 body
 {
-	background-color: #2364AA;
+	background-color: #e3e2df;
     /*font-family: 'Roboto', sans-serif;*/
     font-family: 'Montserrat', sans-serif;
     color: #30011E;
@@ -15,7 +15,7 @@ img{
 }
 
 .square {
-	background-color: white;
+	background-color: #e3afbc;
     float:left;
     position: relative;
     width: 30%;
