@@ -1,21 +1,19 @@
 body
 {
-	background-color: #e3e2df;
-    /*font-family: 'Roboto', sans-serif;*/
+    background-color: #032B43;
     font-family: 'Montserrat', sans-serif;
-    color: #30011E;
 }
 a
 {
-	color: black;
+    color: black;
 }
 img{
-	width: 95%;
-	height: 95%;
+    width: 95%;
+    height: 95%;
 }
 
 .square {
-	background-color: #e3afbc;
+    background-color: #e3afbc;
     float:left;
     position: relative;
     width: 30%;
